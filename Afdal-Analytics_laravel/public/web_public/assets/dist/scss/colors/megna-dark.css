@@ -1,0 +1,52 @@
+.skin-megna-dark {
+  /*Theme Colors*/
+}
+
+.skin-megna-dark .topbar {
+  background: #01c0c8;
+}
+
+.skin-megna-dark .sidebar-nav ul li a.active, .skin-megna-dark .sidebar-nav ul li a:hover {
+  color: #01c0c8;
+}
+
+.skin-megna-dark .sidebar-nav ul li a.active i, .skin-megna-dark .sidebar-nav ul li a:hover i {
+  color: #01c0c8;
+}
+
+.skin-megna-dark .sidebar-nav > ul > li.active > a {
+  color: #01c0c8;
+  border-left: 3px solid #01c0c8;
+}
+
+.skin-megna-dark .sidebar-nav > ul > li.active > a i {
+  color: #01c0c8;
+}
+
+.skin-megna-dark .page-titles .breadcrumb .breadcrumb-item.active {
+  color: #01c0c8;
+}
+
+.skin-megna-dark .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.skin-megna-dark .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.skin-megna-dark .left-sidebar {
+  background: #2b2b2b;
+}
+
+.skin-megna-dark .left-sidebar .user-pro-body a.link {
+  color: #8d97ad;
+}
+
+@media (min-width: 768px) {
+  .skin-megna-dark.mini-sidebar .sidebar-nav #sidebarnav > li > ul, .skin-megna-dark.mini-sidebar .sidebar-nav #sidebarnav > li:hover > a {
+    background: #1f2023;
+  }
+}
+/*# sourceMappingURL=megna-dark.css.map */

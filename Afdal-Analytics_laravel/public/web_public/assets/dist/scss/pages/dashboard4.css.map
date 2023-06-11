@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;EAKE;ACJF,OAAO,CAAC,wEAAI;AAEZ,gBAAgB;AAchB;;;;;;;;;;;;;;;;GAgBG;ADzBH;;oBAEoB;AACpB,AACG,SADM,CACN,GAAG,CAAC,IAAI,EADX,SAAS,CACI,GAAG,CAAC,IAAI,CAAA;EACb,MAAM,EC4BH,OAAO;CD3Bb",
+    "sources": [
+        "dashboard4.scss",
+        "../variable.scss"
+    ],
+    "names": [],
+    "file": "dashboard4.css"
+}

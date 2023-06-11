@@ -1,0 +1,1384 @@
+{
+    "data": [
+        {
+            "created_time": "2022-04-05T06:00:27+0000",
+            "message": "Hello world",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/278022609_142575291612632_559750873450660621_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-5&_nc_sid=da1649&_nc_ohc=E3hadwc_XTIAX-XVpXi&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT_Dzyk2rnqhondS5OlcplAp6d8LO_V5dbXC_Nl9JtjQOg&oe=626363F1",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 36
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_142575294945965\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_142575294945965\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_142575294945965\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_142575294945965\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_142575294945965\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_142575294945965"
+        },
+        {
+            "created_time": "2022-04-03T06:00:27+0000",
+            "message": "Just do it",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/277574572_142119941658167_4880805689770674349_n.png?stp=dst-png_p720x720&_nc_cat=110&ccb=1-5&_nc_sid=da1649&_nc_ohc=Rde3urUXW7MAX8npM25&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT9qF87GUGpOEmFjHyaq6OZm5gpSKrP58E3CC5furt6l9Q&oe=6263130B",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 50
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_142119951658166\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_142119951658166\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_142119951658166\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_142119951658166\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_142119951658166\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_142119951658166"
+        },
+        {
+            "created_time": "2022-04-02T10:30:24+0000",
+            "message": "\u0631\u0645\u0636\u0627\u0646 \u0645\u0628\u0627\u0631\u0643\n\u0643\u0644 \u0639\u0627\u0645 \u0648\u0623\u0646\u062a\u0645 \u0628\u062e\u064a\u0631\ud83c\udf19",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t15.5256-10\/277190129_238983431720192_2857980372239930308_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=ad6a45&_nc_ohc=cvEIBPWtLLoAX-yoPX9&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT9u-cokfbLxH_-sN17MWg-PvZj9XXSGoUeS-lBv36X-xg&oe=6263AD19",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 41
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_141925755010919\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_141925755010919\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_141925755010919\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_141925755010919\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_141925755010919\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_141925755010919"
+        },
+        {
+            "created_time": "2022-03-31T05:30:06+0000",
+            "message": "\u0644\u0648 \u0630\u0647\u0628 \u0634\u062e\u0635\u0627\u0646 \u0641\u064a \u0633\u0628\u0627\u0642 \u0644\u0644\u0648\u0635\u0648\u0644 \u0644\u0648\u062c\u0647\u0629 \u0645\u0639\u064a\u0646\u0629\u060c \u062a\u0639\u062a\u0642\u062f \u0623\u064a\u0647\u0645\u0627 \u0633\u064a\u0643\u0648\u0646 \u0623\u0633\u0631\u0639 \u0648\u0635\u0648\u0644\u064b\u0627\u061f\n \u0628\u0627\u0644\u0637\u0628\u0639 \u0627\u0644\u0630\u064a \u0644\u062f\u064a\u0647 \u0623\u0642\u0635\u0631 \u0627\u0644\u0637\u0631\u0642 \u0644\u0648\u062c\u0647\u062a\u0647!\n\u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0647\u064a \u0623\u0642\u0635\u0631 \u0627\u0644\u0637\u0631\u0642 \u0644\u0646\u062c\u0627\u062d\u0643.. \n\u0633\u062c\u0644 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0627\u0644\u0622\u0646\n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/277563541_141412268395601_2835794525393424527_n.png?stp=dst-png_p720x720&_nc_cat=106&ccb=1-5&_nc_sid=da1649&_nc_ohc=GiMtLILWav4AX8BGUgb&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT9Ull00Xl8LhL7W4p5OWt5LrQ-bLDzr7dLfDTGzwf0auA&oe=6262EB1A",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 54
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_141412275062267\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_141412275062267\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_141412275062267\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_141412275062267\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_141412275062267\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUlQ4WUpQOXEzNEF4Mlp3ejFyS1Q0Q1c4b25oMUdha1EtTnQ1UVpGdkJfbGRUaEpBdS1tSHBLTVhfWFVqalhnSjMZD",
+                        "after": "QVFIUlQ4WUpQOXEzNEF4Mlp3ejFyS1Q0Q1c4b25oMUdha1EtTnQ1UVpGdkJfbGRUaEpBdS1tSHBLTVhfWFVqalhnSjMZD"
+                    }
+                },
+                "summary": {
+                    "total_count": 1,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_141412275062267"
+        },
+        {
+            "created_time": "2022-03-29T10:25:02+0000",
+            "message": "\u0634\u0627\u0631\u0643 \u0631\u0623\u064a\u0643\n\u0643\u064a\u0641 \u0646\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0639\u0631\u0628\u064a \u0648\u0646\u0632\u064a\u062f \u0645\u0646 \u0646\u0633\u0628\u062a\u0647 \u0639\u0627\u0644\u0645\u064a\u064b\u0627\u061f\n\n#\u0631\u0623\u064a\u0643_\u064a\u0647\u0645\u0646\u0627",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/277460493_140992878437540_1362801185502812027_n.png?stp=dst-png_p720x720&_nc_cat=111&ccb=1-5&_nc_sid=da1649&_nc_ohc=WEYDy2ykFtcAX-tPRao&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8QOaNsPfxVAUkGIS_4O4jxmxKLlN-G8HT3nMJ4XNmqSw&oe=6264C750",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 55
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_140992881770873\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_140992881770873\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_140992881770873\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_140992881770873\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_140992881770873\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_140992881770873"
+        },
+        {
+            "created_time": "2022-03-27T10:20:02+0000",
+            "message": "\u0644\u0645\u0627\u0630\u0627 \u0623\u0641\u0636\u0644\u061f  \n\u0645\u0646\u0635\u0629 \u0639\u0631\u0628\u064a\u0629 \u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u062a\u0642\u062f\u064a\u0645\u0647\u0627 \u0644\u0643 \u0644\u062a\u0643\u0648\u0646 \u0639\u0644\u0649 \u0631\u0624\u064a\u0629 \u0648\u0627\u0636\u062d\u0629 \u0628\u0641\u0631\u0635 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0648\u0627\u062a\u062e\u0627\u0630  \u0627\u0644\u0642\u0631\u0627\u0631\u0627\u062a \u0641\u064a \u062d\u064a\u0646\u0647\u0627 \u062f\u0648\u0646 \u062a\u0623\u062c\u064a\u0644\n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/277451468_140513708485457_5176048283586470406_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-5&_nc_sid=da1649&_nc_ohc=nygFNkoZGp4AX8TGjEZ&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8cONfTbYgJkcMCv86yCzpEO30XB5Xj2XVWjsmuCuI79w&oe=626451F4",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 46
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_140513711818790\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_140513711818790\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_140513711818790\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_140513711818790\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_140513711818790\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUnJOaS1mU0x3eUQyX0ViczhfM0tleUphYThjZAzgyZAzhfTVZAJU19ZAQUM0UHJ5VFhQYXFkMFNCVnVsekVURzNlQUgZD",
+                        "after": "QVFIUnJOaS1mU0x3eUQyX0ViczhfM0tleUphYThjZAzgyZAzhfTVZAJU19ZAQUM0UHJ5VFhQYXFkMFNCVnVsekVURzNlQUgZD"
+                    }
+                },
+                "summary": {
+                    "total_count": 1,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_140513711818790"
+        },
+        {
+            "created_time": "2022-03-24T10:01:04+0000",
+            "message": "\u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0641\u064a \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0647\u064a \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0648\u0639\u064a..\n\u062d\u064a\u062b \u064a\u062c\u0647\u0644 \u0639\u0645\u064a\u0644\u0643 \u0623\u0646\u0647 \u064a\u0648\u0627\u062c\u0647 \u0645\u0634\u0643\u0644\u0629 \u0623\u0648 \u0623\u0646\u0647 \u0628\u062d\u0627\u062c\u0629 \u0625\u0644\u0649 \u0645\u0633\u0627\u0639\u062f\u0629\u060c \u0628\u0627\u0644\u062a\u0627\u0644\u064a \u062a\u062a\u0636\u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0645\u062d\u062a\u0645\u0644\u064a\u0646 \u0628\u0645\u0634\u0627\u0643\u0644\u0647\u0645 \u0648\u0628\u0648\u062c\u0648\u062f \u062d\u0644 \u0644\u0647\u0627 \u0623\u064a\u0636\u064b\u0627\u060c \u0642\u062f \u062a\u062e\u0628\u0631\u0647\u0645 \u0628\u0637\u0631\u064a\u0642\u0629 \u063a\u064a\u0631 \u0645\u0628\u0627\u0634\u0631\u0629 \u0623\u0646 \u0645\u0646\u062a\u062c\u0643 \u064a\u0648\u0641\u0631 \u0645\u062b\u0644 \u0647\u0630\u0627 \u0627\u0644\u062d\u0644 \u0644\u0625\u062b\u0627\u0631\u0629 \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0628\u0647\u060c \u0648\u062a\u062f\u0631\u064a\u062c\u064a\u0627\u064b \u064a\u062a\u0648\u0644\u062f \u0634\u0639\u0648\u0631 \u0648\u0631\u063a\u0628\u0629 \u0639\u0646\u062f \u0627\u0644\u0639\u0645\u064a\u0644 \u0644\u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u0645\u0632\u064a\u062f \u0639\u0646 \u0627\u0644\u0645\u0646\u062a\u062c..",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/277249987_139764808560347_407273231704630062_n.png?stp=dst-png_p720x720&_nc_cat=106&ccb=1-5&_nc_sid=da1649&_nc_ohc=c0q272L_sL0AX_H4V3A&_nc_oc=AQmgM3Gymxu1wtvfynBQsrLydKCGhT6uOqdoJxSBpFUDdic0EU3BTM0JT-jAWYkwIvU&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8iuT7S9qgLqq8DyFyM0z-NYe9owToVFWzWbuWwc9hBIw&oe=62636216",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 37
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_139764811893680\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_139764811893680\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_139764811893680\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_139764811893680\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_139764811893680\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_139764811893680"
+        },
+        {
+            "created_time": "2022-03-22T06:05:02+0000",
+            "message": "\u0647\u0644 \u062a\u0635\u062f\u0642 \u0623\u0646 \u0623\u0643\u062b\u0631 \u0645\u0646 85% \u0645\u0646 \u0627\u0644\u0645\u0633\u0648\u0642\u064a\u064a\u0646 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645 \u064a\u0642\u0648\u0645\u0648\u0646 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0628\u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0645\u0646 \u0623\u062c\u0644 \u0631\u0641\u0639 \u0646\u0633\u0628\u0629 \u0645\u0628\u064a\u0639\u0627\u062a\u0647\u0645..\n\n#\u0623\u0641\u0636\u0644_\u0627\u0644\u0623\u0631\u0642\u0627\u0645",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/276309361_139213468615481_5750367730663559450_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=da1649&_nc_ohc=8tgZxXxHCmgAX9Tthln&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT_lwrIxZe-YjVdog3CLmbOkdFZiF7d0nxDk-fUKYybzYA&oe=6263AA22",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 37
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_139213471948814\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_139213471948814\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_139213471948814\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_139213471948814\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_139213471948814\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_139213471948814"
+        },
+        {
+            "created_time": "2022-03-20T06:00:15+0000",
+            "message": "\u0645\u0646\u0635\u0629 \u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u062a\u062a\u064a\u062d \u0644\u0643 \u0627\u0644\u0641\u0631\u0635\u0629 \u0644\u062a\u0631\u0628\u0637 \u0643\u0627\u0641\u0629 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0641\u064a \u0645\u0646\u0635\u0629 \u0648\u0627\u062d\u062f\u0629 \u0644\u062a\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0646\u0634\u0627\u0637 \u0623\u0639\u0645\u0627\u0644\u0643 \u0639\u0646 \u0642\u0631\u0628 \u0648\u0628\u0634\u0643\u0644 \u0623\u0634\u0645\u0644 \u0648\u0645\u0624\u0634\u0631\u0627\u062a \u0623\u062f\u0627\u0621 \u0623\u0643\u062b\u0631 \u0628\u0633\u0627\u0637\u0629 \u0648\u062a\u0623\u062b\u064a\u0631\u064b\u0627..\n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/275998740_138702688666559_654289713814117326_n.png?stp=dst-png_p720x720&_nc_cat=110&ccb=1-5&_nc_sid=da1649&_nc_ohc=_3l08PJXCcoAX_7-ysI&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-KgZq_n7F4fwwOpNs_8sN9JzkndkFM5yE1marvnyufEg&oe=6262DEF5",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 33
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_138702691999892\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_138702691999892\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_138702691999892\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138702691999892\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138702691999892\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_138702691999892"
+        },
+        {
+            "created_time": "2022-03-18T05:00:18+0000",
+            "message": "\u0646\u0639\u0645\u0644 \u0628\u0644\u063a\u062a\u0643 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c\n\u0648 \u0646\u0648\u0641\u0631 \u0644\u0643 \u0628\u064a\u0626\u0629 \u0639\u0645\u0644 \u062d\u0635\u0631\u064a\u0629 \u062a\u0644\u0628\u064a \u0643\u0644 \u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a\u0643 \u0627\u0644\u062a\u0633\u0648\u064a\u0642\u064a\u0629..\n\n#\u0644\u063a\u0629_\u0639\u0631\u0628\u064a\u0629",
+            "shares": {
+                "count": 1
+            },
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/276173386_138196728717155_6845530611481317756_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=2d5d41&_nc_ohc=vXw-ugo8htkAX-j4uo6&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-9E3pxaJRC3QVWoEnQGQEgMFu8M8yOim8UA9-UV0HzyQ&oe=62641D06",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 47
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_138196738717154\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_138196738717154\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_138196738717154\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138196738717154\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138196738717154\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUm1jT3kzNVg5d1dLUzd0S2lENEpScmkzcFplcDRLY04wRzlIS3hPUUdmWFhfc0w3YkZAqSndZAYnhoVTVHMzRXUFUZD",
+                        "after": "QVFIUm1jT3kzNVg5d1dLUzd0S2lENEpScmkzcFplcDRLY04wRzlIS3hPUUdmWFhfc0w3YkZAqSndZAYnhoVTVHMzRXUFUZD"
+                    }
+                },
+                "summary": {
+                    "total_count": 1,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_138196738717154"
+        },
+        {
+            "created_time": "2022-03-17T10:00:58+0000",
+            "message": "\u0647\u0646\u0627\u0643 96 \u0645\u0644\u064a\u0648\u0646 \u0639\u0631\u0628\u064a \u064a\u0633\u062a\u062e\u062f\u0645\u0648\u0646 \u0627\u0644\u0627\u0646\u062a\u0631\u0646\u062a\u060c \u0644\u0643\u0646 \u062d\u0636\u0648\u0631 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0639\u0631\u0628\u064a \u0644\u0627 \u064a\u062a\u0639\u062f\u0649 3% \u0645\u0646 \u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629..\n\n#\u0627\u0631\u0642\u0627\u0645_\u0627\u0644\u0646\u062c\u0627\u062d",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/275846640_138010218735806_3837217022644092895_n.png?stp=dst-png_p720x720&_nc_cat=100&ccb=1-5&_nc_sid=2d5d41&_nc_ohc=-BzMbBAWvwoAX9eXQpv&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-gzTmN92he7wETiCVq1iWyObfIo2P9RNUJEf8iyz0oGg&oe=6264081E",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 28
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_138010222069139\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_138010222069139\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_138010222069139\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138010222069139\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_138010222069139\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_138010222069139"
+        },
+        {
+            "created_time": "2022-03-16T06:00:22+0000",
+            "message": "\u0645\u0646\u0635\u0629 \u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a Afdal Analytics \u062a\u0639\u062a\u0628\u0631 \u0623\u0641\u0636\u0644 \u0623\u062f\u0627\u0629 \u0639\u0631\u0628\u064a\u0629 \u0645\u0635\u0645\u0645\u0629 \u0644\u0644\u0623\u0633\u0648\u0627\u0642 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0645\u0633\u0648\u0642\u064a\u0646 \u0627\u0644\u0639\u0631\u0628\u061b \n\u062a\u0645\u0643\u0646 \u0627\u0644\u0645\u0633\u0648\u0642\u064a\u064a\u0646 \u0627\u0644\u0631\u0642\u0645\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062a\u0642\u0627\u0631\u064a\u0631 \u0648\u0623\u062f\u0648\u0627\u062a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0644\u0645\u0633\u0627\u0639\u062f\u062a\u0647\u0645 \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a \u0627\u0644\u062a\u0633\u0648\u064a\u0642\u064a\u0629 \u0648\u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u0632\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0644\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0623\u0648 \u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0639\u0628\u0631 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a..\n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "shares": {
+                "count": 1
+            },
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/275888710_137717878765040_8014601793043430066_n.png?stp=dst-png_p720x720&_nc_cat=100&ccb=1-5&_nc_sid=2d5d41&_nc_ohc=FOJ01nx1mg8AX95UGU6&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT9WURkVMKEbziPlD6xCaBuZkJYqd1sMxa4PkwFEm7NV_w&oe=62645637",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 53
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_137717882098373\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 3
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_137717882098373\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 3
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_137717882098373\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_137717882098373\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_137717882098373\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUlgyaE5wNnhBRFVuRXlvaFhJSi1Qand0V24xQ2I2UlNXY3pyc3p3eG5POUFLLWR6V2JBUXNWRGhWaGs1LTRRTVQZD",
+                        "after": "QVFIUlgyaE5wNnhBRFVuRXlvaFhJSi1Qand0V24xQ2I2UlNXY3pyc3p3eG5POUFLLWR6V2JBUXNWRGhWaGs1LTRRTVQZD"
+                    }
+                },
+                "summary": {
+                    "total_count": 1,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_137717882098373"
+        },
+        {
+            "created_time": "2022-03-15T06:00:18+0000",
+            "message": "\u0645\u0627 \u0647\u0648 \u062a\u0642\u0631\u064a\u0631 \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u061f\n\u062a\u0642\u0631\u064a\u0631 \u0639\u0644\u0649 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u064a\u0648\u0636\u062d \u0623\u062f\u0627\u0621 \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643. \u0641\u0628\u0630\u0644\u0643 \u062a\u0648\u0641\u0631 \u0628\u0631\u0627\u0645\u062c \u062a\u0642\u0627\u0631\u064a\u0631  \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0638\u0627\u0626\u0641 \u0644\u062c\u0645\u0639 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u062d\u0633\u0627\u0628\u0627\u062a \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0625\u0639\u062f\u0627\u062f \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0639\u0646\u0647\u0627.\n\n\u0628\u0627\u062e\u062a\u0635\u0627\u0631 \u0647\u0630\u0647 \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062a\u0639\u0644\u0642 \u0628\u062a\u062d\u0648\u064a\u0644 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0625\u0644\u0649 \u0631\u0624\u0649 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0646\u0641\u064a\u0630 \u0648\u0641\u0647\u0645\u0647\u0627. \u0641\u062a\u0642\u0631\u064a\u0631 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u064a\u0648\u0636\u062d \u0623\u062f\u0627\u0621 \u0642\u0646\u0648\u0627\u062a \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643.\n\n\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u062a\u0642\u0631\u064a\u0631 \u062d\u0633\u0627\u0628\u0627\u062a\u0643 \u0639\u0644\u0649 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u0622\u0646 \u0645\u0646 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0623\u0641\u0636\u0644 \n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/275677693_137473255456169_1241574072992281980_n.png?stp=dst-png_p720x720&_nc_cat=111&ccb=1-5&_nc_sid=2d5d41&_nc_ohc=cCDCvhUQ6sAAX--JIun&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT9bDRvUhOR8Pnbn5KFgH5cWoxvWDq2flAOtMx0G14PN3Q&oe=6263EB33",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 31
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_137473258789502\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_137473258789502\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_137473258789502\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_137473258789502\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_137473258789502\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_137473258789502"
+        },
+        {
+            "created_time": "2022-03-02T21:57:37+0000",
+            "message": "\u062a\u0645\u0643\u064a\u0646 \u0627\u0644\u0645\u0633\u0648\u0642\u064a\u0646 \u0627\u0644\u0631\u0642\u0645\u064a\u064a\u0646 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u0642\u0627\u0631\u064a\u0631 \u0648\u0623\u062f\u0648\u0627\u062a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u062a\u0633\u0627\u0639\u062f\u0647\u0645 \u0639\u0644\u0649 \u062a\u0637\u0648\u064a\u0631 \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a \u0641\u0639\u0627\u0644\u0629. \n\n #\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/275045863_134450122425149_3599234834757457492_n.png?stp=dst-png_p720x720&_nc_cat=107&ccb=1-5&_nc_sid=da1649&_nc_ohc=RbYtCJK9bQgAX9HOY3z&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8cj2E2Q8QbW0U1ESEMK6lkzc-wTEISUE6Yr-JjR7sj_w&oe=6262FECB",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 36
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_134450125758482\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_134450125758482\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 2
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_134450125758482\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_134450125758482\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_134450125758482\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_134450125758482"
+        },
+        {
+            "created_time": "2022-02-10T10:26:16+0000",
+            "message": "\u0642\u062f \u062a\u0639\u0631\u0641 \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0642\u0635\u0635 \u0627\u0644\u0646\u062c\u0627\u062d \u0648\u0627\u0644\u0625\u0644\u0647\u0627\u0645\u060c \u0648\u0644\u0643\u0646 \u0643\u064a\u0641 \u062d\u0642\u0642\u0648\u0627 \u0647\u0630\u0627 \u0627\u0644\u0646\u062c\u0627\u062d \u0648\u0628\u0623\u064a \u0637\u0631\u064a\u0642\u0629\u060c \u0627\u0644\u0627\u0645\u0631 \u0644\u0627 \u064a\u062a\u0639\u0644\u0642 \u0641\u0642\u0637 \u0628\u0627\u0644\u0645\u062b\u0627\u0628\u0631\u0629\u060c  \u0647\u0646\u0627\u0643 \u0628\u0639\u0636 \u0627\u0644\u0648\u0645\u0636\u0627\u062a \u0641\u064a \u0627\u0644\u0637\u0631\u064a\u0642 \u0648\u0647\u064a \u0627\u0644\u062a\u064a \u062a\u062c\u0639\u0644 \u0627\u0644\u0623\u0645\u0648\u0631 \u062a\u0628\u062f\u0648 \u0623\u0633\u0647\u0644 \u0644\u0643\u0644 \u0633\u0627\u0626\u0631 \u0641\u064a \u0637\u0631\u064a\u0642 \u0627\u0644\u0646\u062c\u0627\u062d\u060c  \u062a\u0627\u0628\u0639 \u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a\u060c  \u0646\u0642\u0637\u0629 \u0627\u0644\u0636\u0648\u0621  \u0644\u0643 \u0644\u062a\u0631\u0649 \u0623\u0639\u0645\u0627\u0644\u0643 \u0639\u0644\u0649 \u0627\u0644\u0648\u064a\u0628  \u0648\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643 \u0628\u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0644\u0646\u0633\u064a\u0631 \u0633\u0648\u064a\u0627 \u0639\u0644\u0649 \u0623\u0633\u0627\u0633 \u0648\u0627\u0636\u062d \u0648\u0646\u0635\u0644 \u0644\u0644\u0646\u062c\u0627\u062d \u0628\u0623\u0642\u0635\u0631 \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0645\u062f\u0631\u0648\u0633\u0629 \u0648\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \n\n#\u062a\u0633\u0648\u064a\u0642_\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/273859323_128874996315995_1098175804978796600_n.png?stp=dst-png_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=da1649&_nc_ohc=CsX7MPl28hEAX_wZTu7&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-7yDw29vX1mWWHNB7Dv9l4vpQN4YT7t2RPXi86EpfM-A&oe=6263B45D",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 47
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_128875002982661\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_128875002982661\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_128875002982661\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_128875002982661\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_128875002982661\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_128875002982661"
+        },
+        {
+            "created_time": "2022-02-07T16:22:20+0000",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 40
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_128147649722063\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_128147649722063\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 1
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_128147649722063\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_128147649722063\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_128147649722063\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_128147649722063"
+        },
+        {
+            "created_time": "2022-02-04T13:58:00+0000",
+            "message": "\u062a\u062d\u0633\u064a\u0646 \u0623\u062f\u0627\u0621 \u0625\u0639\u0644\u0627\u0646\u0627\u062a\u0643\n\u062d\u0642\u0642 \u0623\u0641\u0636\u0644 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0645\u0646 \u062d\u0645\u0644\u0627\u062a\u0643 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u064a\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u062d\u064a\u062b \u0623\u0646 \u0627\u0644\u0648\u062b\u0648\u0642 \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0629 \u0623\u0635\u0628\u062d \u0645\u0646 \u0627\u0644\u0623\u0645\u0648\u0631 \u0627\u0644\u0635\u0639\u0628\u0629 \u0647\u0630\u0647 \u0627\u0644\u0623\u064a\u0627\u0645 \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0632\u0646\u0633\u2714 \n\n\u062a\u0627\u0628\u0639\u0646\u0627 \u0644\u062a\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u062c\u062f\u064a\u062f \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0648\u0643\u064a\u0641 \u062a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0641\u064a \u0646\u062c\u0627\u062d \u0623\u0639\u0645\u0627\u0644\u0643 \u0639\u0644\u0649 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0641\u0646\u062d\u0646 \u0646\u062b\u0631\u064a \u0639\u0627\u0644\u0645\u0643 \u0628\u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0645\u0646 \u0645\u0635\u0627\u062f\u0631\u0647\u0627 \u0627\u0644\u0645\u0648\u062b\u0648\u0642\u0629 \u0648\u0627\u0644\u0623\u0641\u0636\u0644 \u0644\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0628\u0627\u0644\u0639\u0631\u0628\u064a\ud83d\udc4c",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/272959795_126987343171427_4092989868463044579_n.png?stp=dst-png_p720x720&_nc_cat=109&ccb=1-5&_nc_sid=8024bb&_nc_ohc=xfU05VetdigAX9wvDBc&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-z-St77MCQ0ZZr3sYOHgTRPRX9AOo5yo3k00CqTL_jrg&oe=626442D7",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 43
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_126987649838063\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 2
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_126987649838063\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 3
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_126987649838063\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_126987649838063\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_126987649838063\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_126987649838063"
+        },
+        {
+            "created_time": "2022-02-03T13:33:13+0000",
+            "message": "\u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a \u0645\u0627\u0632\u0627\u0644\u062a \u062a\u062e\u0641\u0649 \u0639\u0644\u064a\u0643 \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u060c \u062a\u0639\u0631\u0641 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0645\u062f\u0648\u0646\u062a\u0646\u0627 \u0639\u0644\u0649  \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0645\u0641\u064a\u062f\u0629 \u0627\u0644\u0645\u0628\u0633\u0637\u0629 \u0639\u0646 \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0631\u0642\u0645\u064a  \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u060c \u0644\u062a\u0635\u0644 \u0644\u0644\u0627\u062d\u062a\u0631\u0627\u0641 \u0628\u0643\u0644 \u0633\u0647\u0648\u0644\u0629 \n\n#\u062a\u0633\u0648\u064a\u0642_\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/272997084_126986379838190_3342022436702882142_n.png?stp=dst-png_p720x720&_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=u13WIqtAN74AX_oNFuJ&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8V5ZWuIBh3-PrHCq5ZEXKPs_GJhOUXHWTgUZqrCG39PA&oe=62632CD0",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 39
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_126986476504847\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_126986476504847\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_126986476504847\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_126986476504847\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_126986476504847\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [],
+                "summary": {
+                    "total_count": 0,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_126986476504847"
+        },
+        {
+            "created_time": "2022-01-24T11:21:05+0000",
+            "message": "\u0633\u062c\u0644 \u062d\u0633\u0627\u0628\u0643 \u0627\u0644\u0622\u0646 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629  \u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u2714 \u0648\u0627\u0643\u062a\u0634\u0641 \u0628\u0639\u062f\u0627\u064b \u0622\u062e\u0631 \u0644\u0646\u062c\u0627\u062d \u0623\u0639\u0645\u0627\u0644\u0643 \u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u062f\u0642\u064a\u0642\u0629  \u0645\u0646 \u0647\u0646\u0627 https:\/\/afdalanalytics.com\/\n\n#\u062a\u0633\u0648\u064a\u0642_\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/272300587_124238556779639_8596487322077855065_n.png?stp=dst-png_p720x720&_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=b3VdwnvyXiUAX-XmpHy&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT8Lywr4pwR47-UZqE7vEuJRy-hIxThDPjnF0X2ebL1udA&oe=62637D48",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 54
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_124238666779628\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 6
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_124238666779628\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 3
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_124238666779628\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_124238666779628\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_124238666779628\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [
+                    {
+                        "id": "4824547074300628",
+                        "name": "Ella Gilbert"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUkFFb1FvMnMyR0hDa0dGUjFXVTFwblpYRzlwNVpqbXc3Q0Y5Xzgwbno4TnhIT3JYZAGNTa1E2aVNvVEZA3S1NfeFVKQmV5QjF1Qzg0UHNRZAXhURUkxVXhB",
+                        "after": "QVFIUjJjNjh4aldkWXNZAM0tabXFjRFpxUjBxYlE2c1Y3SU1zZAW44emxuTjNIS3ZAhSDE3UWtCWmN4UjYxVDBnTVFQbVNvMmdYNlVxMHpXMFpDTWVlLVcxYllB"
+                    }
+                },
+                "summary": {
+                    "total_count": 2,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_124238666779628"
+        },
+        {
+            "created_time": "2022-01-20T08:28:39+0000",
+            "message": "\u0644\u0648\u062d\u0627\u062a \u062a\u062d\u0643\u0645 \u0623\u0646\u064a\u0642\u0629 \u0648 \u0633\u0647\u0644\u0629 \u062a\u0648\u0638\u0641 \u0627\u0644\u0623\u0644\u0648\u0627\u0646 \u0648 \u0627\u0644\u0623\u0634\u0643\u0627\u0644  \u0648\u062a\u0646\u0627\u0633\u0628 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c  \u0646\u062d\u0646 \u0647\u0646\u0627 \u0644\u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0639\u0644\u0649 \u0641\u0647\u0645 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0628\u0633\u0647\u0648\u0644\u0629 \u0648 \u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0625\u062c\u0631\u0627\u0621 \u0627\u0644\u0623\u0645\u062b\u0644 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u064a\u0647\u0627.\n\n\u0633\u062c\u0644 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0639\u0644\u0649 : https:\/\/afdalanalytics.com\/\n\n#\u062a\u062d\u0644\u064a\u0644_\u0628\u064a\u0627\u0646\u0627\u062a",
+            "shares": {
+                "count": 1
+            },
+            "full_picture": "https:\/\/scontent.fkiv1-1.fna.fbcdn.net\/v\/t39.30808-6\/272041923_123101623559999_4792145957762570772_n.png?stp=dst-png_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=8024bb&_nc_ohc=2Tsp3IooiJ0AX8vMO7N&_nc_ht=scontent.fkiv1-1.fna&edm=AKIiGfEEAAAA&oh=00_AT-DiWH0b0Ajiukcg5zc_wsRZbhMq9nhDIY8SwUxe3kgvQ&oe=6262D2D7",
+            "insights": {
+                "data": [
+                    {
+                        "name": "post_impressions",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 62
+                            }
+                        ],
+                        "title": "Lifetime Post Total Impressions",
+                        "description": "Lifetime: The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more. (Total Count)",
+                        "id": "108210311715797_123101680226660\/insights\/post_impressions\/lifetime"
+                    },
+                    {
+                        "name": "post_engaged_users",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 5
+                            }
+                        ],
+                        "title": "Lifetime Engaged Users",
+                        "description": "Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)",
+                        "id": "108210311715797_123101680226660\/insights\/post_engaged_users\/lifetime"
+                    },
+                    {
+                        "name": "post_clicks",
+                        "period": "lifetime",
+                        "values": [
+                            {
+                                "value": 0
+                            }
+                        ],
+                        "title": "Lifetime Matched Audience Targeting Consumptions on Post",
+                        "description": "Lifetime: The number of clicks anywhere in your post on News Feed from the user that matched the audience targeting on it. (Total Count)",
+                        "id": "108210311715797_123101680226660\/insights\/post_clicks\/lifetime"
+                    }
+                ],
+                "paging": {
+                    "previous": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_123101680226660\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1649833200&until=1650006000",
+                    "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797_123101680226660\/insights?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&metric=post_impressions%2Cpost_engaged_users%2Cpost_clicks&since=1650178800&until=1650351600"
+                }
+            },
+            "likes": {
+                "data": [
+                    {
+                        "id": "4824547074300628",
+                        "name": "Ella Gilbert"
+                    }
+                ],
+                "paging": {
+                    "cursors": {
+                        "before": "QVFIUlN4bklKODQ5MkxWZAE16Y3FUQnMtVnVZARG0yTmZADa040MnVvQzFOSE16dTJkNFZAQaFlBcGhZAYmc5YTduUU1mNXQZD",
+                        "after": "QVFIUkdVXzk2ZA2ZAaV255NW5RVHJfQjY0QmZAYcUhnQmdGdU1RMVNITTF4bHQ2VDdMX0l1azdJODN3YlRQdldzTGxCM1lpN3FYdExMc2VoZA29OT1FsOFI4bGhR"
+                    }
+                },
+                "summary": {
+                    "total_count": 3,
+                    "can_like": true,
+                    "has_liked": false
+                }
+            },
+            "comments": {
+                "data": [],
+                "summary": {
+                    "order": "ranked",
+                    "total_count": 0,
+                    "can_comment": true
+                }
+            },
+            "id": "108210311715797_123101680226660"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "QVFIUlZAKQ2NKZA1B5a1JHTkN4dGgwbm5MRVpLMG5HWV8xbzEwS2x0aVU0S0otMXMzd0RjTFQ1NTV6TVdrcF9OWUs4LTV4RkNrNE1nMnhxbXBNNm81VGFnd3RLV0duSVUwb2h2SFU3YzBTbFpiQVdYM3ptSW1VLXlKT2tablFSZAG5VRmpY",
+            "after": "QVFIUkQtVXBLS1hXSy1YdE8zZAVhEemJSS0RyZAHZAkemVJN3dIU3lEa1J0X3RpaVU1WlFpU2VZAbzZAOSU04b0c2SkJlWW8yMlQxc3RtQ3E1MjZArQkRydTh2V3J4YmZAuUnhvOTNPbWpkdXRtSVl5YThMWGowT1pDNlRKMnVNRV9xcHJSVFM2"
+        },
+        "next": "https:\/\/graph.facebook.com\/v12.0\/108210311715797\/posts?access_token=EAACFZCwk0InsBAK1gkaYtSa2ZB8qqs311QZCSHKz8tFFp4ilpbNc2sIXD6ArYL3pZC18ONHHAKZBT5Ft7VaBlA3W5DKjO3DLejzFuOhT7ZC8zWveerMZBSalXAl1kMHBCazoALFTZCwxLMgqSSTAjgLghPNW40vxkqh6frcGmzVZAx4PsvZAZBSa2Ct&fields=created_time%2Cmessage%2Cshares%2Cfull_picture%2Cinsights.metric%28post_impressions%2Cpost_engaged_users%2Cpost_clicks%29%2CShares.summary%28true%29%2Clikes.summary%28true%29%2Ccomments.summary%28true%29&limit=20&after=QVFIUkQtVXBLS1hXSy1YdE8zZAVhEemJSS0RyZAHZAkemVJN3dIU3lEa1J0X3RpaVU1WlFpU2VZAbzZAOSU04b0c2SkJlWW8yMlQxc3RtQ3E1MjZArQkRydTh2V3J4YmZAuUnhvOTNPbWpkdXRtSVl5YThMWGowT1pDNlRKMnVNRV9xcHJSVFM2"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": "23849811483620619"
+        },
+        {
+            "id": "23849802588410619"
+        },
+        {
+            "id": "23849802588360619"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "MjM4NDk4MTE0ODM2MjA2MTkZD",
+            "after": "MjM4NDkzOTE3MjEyNjA2MTkZD"
+        },
+        "next": "https:\/\/graph.facebook.com\/v12.0\/act_1304249843046502\/adcreatives?access_token=EAACFZCwk0InsBAEZCHTsCT5fB5CR1uQlZBFdNdFpptb0Abg4sV4yc6J4hGaKlhlUQIQPyXHfNkGjDQubKbZCjts8ntdTwYce9n9r9ZBLaRNxTd4ZBTrVnhmVhETVZAlSg502Nc64JBc82OZArUCpkMZCO08w2ZBsgauSScR57pM14ZCldy2LgMB01ZAwgmqNn5mBqKrDp82NAZA3MWQZDZD&limit=25&after=MjM4NDkzOTE3MjEyNjA2MTkZD"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACCA,OAAO,CAAC,wEAAI;AAEZ,gBAAgB;AAchB;;;;;;;;;;;;;;;;GAgBG;AD9BH;;oBAEoB;AACpB,AAAA,YAAY,CAAA;EACR,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "dashboard1.scss",
+        "../variable.scss"
+    ],
+    "names": [],
+    "file": "dashboard1.css"
+}

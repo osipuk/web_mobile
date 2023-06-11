@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/app.min.js": "/js/app.min.js",
+    "/css/app.css": "/css/app.css",
+    "/css/app.min.css": "/css/app.min.css",
+    "/js/v2/app.js": "/js/v2/app.js",
+    "/js/v2/app.min.js": "/js/v2/app.min.js",
+    "/css/v2/app.css": "/css/v2/app.css",
+    "/css/v2/app.min.css": "/css/v2/app.min.css"
+}

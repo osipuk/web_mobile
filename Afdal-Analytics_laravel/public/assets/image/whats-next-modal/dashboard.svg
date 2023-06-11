@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_59090" data-name="Group 59090" transform="translate(-1448 -583)">
+    <g id="icon_24x_Dashboards" data-name="icon/24x/Dashboards" transform="translate(536 -10)">
+      <g id="Boundary" transform="translate(912 593)" fill="#f58b1e" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+        <rect width="24" height="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+      </g>
+      <g id="Icon_ionic-ios-stats" data-name="Icon ionic-ios-stats" transform="translate(907.375 588.5)">
+        <path id="Path_34695" data-name="Path 34695" d="M12.875,28.5h3a.5.5,0,0,0,.5-.5V5a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5V28A.5.5,0,0,0,12.875,28.5Z" transform="translate(-0.75 0)" fill="#f58b1e"/>
+        <path id="Path_34696" data-name="Path 34696" d="M6.125,30.25h3a.5.5,0,0,0,.5-.5v-9a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5v9A.5.5,0,0,0,6.125,30.25Z" transform="translate(0 -1.75)" fill="#f58b1e"/>
+        <path id="Path_34697" data-name="Path 34697" d="M19.631,29.75h2.988a.5.5,0,0,0,.506-.506V16.256a.5.5,0,0,0-.506-.506H19.631a.5.5,0,0,0-.506.506V29.244A.5.5,0,0,0,19.631,29.75Z" transform="translate(-1.5 -1.25)" fill="#f58b1e"/>
+        <path id="Path_34698" data-name="Path 34698" d="M25.875,9.506V28.494a.5.5,0,0,0,.506.506h2.987a.5.5,0,0,0,.506-.506V9.506A.5.5,0,0,0,29.369,9H26.381A.5.5,0,0,0,25.875,9.506Z" transform="translate(-2.25 -0.5)" fill="#f58b1e"/>
+      </g>
+    </g>
+  </g>
+</svg>
