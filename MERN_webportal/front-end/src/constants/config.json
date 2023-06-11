@@ -1,0 +1,12 @@
+{
+ 
+  "API_URL": "http://app002.z1.truecloud.services:8000/v2",
+  "Mssgae_URL": "https://messaging.bandwidth.com/api/v2",
+  "corsURL": "https://cors-anywhere.herokuapp.com/",
+  "serverURL": "http://localhost:8080",
+  "socketURL": "http://localhost:8080",
+  "accountId": "5002666",
+  "apiToken": "509eb4814291737814e8613dce83af3af7fdd616c15d44bc",
+  "apiSecret": "d11c02ded9d6ab46b0aae24e96bdd1d412faf3c0049953bf",
+  "applicationId": "c3baf420-97bf-4253-946e-c1a6694a8a10"
+}

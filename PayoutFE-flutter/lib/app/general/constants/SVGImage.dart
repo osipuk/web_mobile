@@ -1,0 +1,45 @@
+class SVGImage {
+  static const menu = 'assets/images/menu.svg';
+  static const mainBackground = 'assets/images/main_background.svg';
+  static const payOutIcon = 'assets/images/pay_out_icon.svg';
+  static const payOutIconShadow = 'assets/images/pay_out_icon_shadow.png';
+  static const close = 'assets/images/close.svg';
+  static const facebookIcon = 'assets/images/facebook_icon.svg';
+  static const googleIcon = 'assets/images/google_icon.svg';
+  static const appleIcon = 'assets/images/apple_icon.svg';
+  static const touchIdIcon = 'assets/images/touch_id_icon.svg';
+  static const faceIdIcon = 'assets/images/face_id_icon.svg';
+  static const emailImg = 'assets/images/email_img.svg';
+  static const backRound = 'assets/images/back_round.svg';
+  static const passwordImg = 'assets/images/password_img.svg';
+  static const viewPasswordIcon = 'assets/images/view_password_icon.svg';
+  static const brokenPasswordIcon = 'assets/images/broken_password_icon.svg';
+  static const checkSuccessIcon = 'assets/images/check_success_icon.svg';
+  static const phoneIcon = 'assets/images/phone_icon.svg';
+  static const nameIcon = 'assets/images/name_icon.svg';
+  static const addressIcon = 'assets/images/address_widget.svg';
+  static const verifyIcon = 'assets/images/verified_icon.svg';
+  static const warningDialogIcon = 'assets/images/warning_icon.svg';
+  static const clockIcon = 'assets/images/clock_icon.svg';
+  static const userIcon = 'assets/images/user_icon.svg';
+  static const cameraButtonIcon = 'assets/images/camera_icon.svg';
+  static const cameraIcon = 'assets/images/mini_camera_icon.svg';
+  static const galleryIcon = 'assets/images/galery_icon.svg';
+  static const bankInfoIcon = 'assets/images/bank_info_icon.svg';
+  static const creditCardIcon = 'assets/images/card_info.svg';
+  static const arrowDown = 'assets/images/arrow_down_icon.svg';
+  static const homeTabIcon = 'assets/images/home_tab_ic.svg';
+  static const notTabIcon = 'assets/images/not_tab_ic.svg';
+  static const addPayOutIcon = 'assets/images/create_new_tab_ic.svg';
+  static const infoPurpleIcon = 'assets/images/shape_info_purple.svg';
+  static const explosionIcon = 'assets/images/explosion_icon.svg';
+  static const messageNotIcon = 'assets/images/email_not.svg';
+  static const deleteSignalIcon = 'assets/images/delete_signal_icon.svg';
+  static const failedIcon = 'assets/images/failed_icon.svg';
+  static const circlePurpleCheckIcon =
+      'assets/images/circle_purple_check_icon.svg';
+  static const tradeActionIcon = 'assets/images/trade_action_icon.svg';
+  static const circlePinkCheckIcon = 'assets/images/check_pink.svg';
+  static const receiveCheckIcon = 'assets/images/receive_check_icon.svg';
+  static const infoIcon = 'assets/images/info_icon.svg';
+}

@@ -1,0 +1,192 @@
+name: pay_out
+description: Pay Out Application
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>= 2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4 
+
+  # State management
+  stacked: ^2.2.7+1 
+
+  # Navigation
+  auto_route: ^3.1.3
+  stacked_services: ^0.8.15
+
+  #Inversion of control
+  get_it: ^7.2.0
+  injectable: ^1.5.0
+
+  #Load SVG IMAGES
+  flutter_svg: ^0.23.0+1 
+  cached_network_image: ^3.1.0+1
+
+  #Open Mail and url
+  url_launcher: ^6.0.15
+
+  #Rest api
+  http: ^0.13.4
+
+  #Database local
+  floor: ^1.2.0
+  path: ^1.8.0
+  path_provider: ^2.0.7 
+  get: ^4.3.8
+
+  #Youtube player
+  youtube_player_flutter: ^8.0.0 
+
+  #Auth biometric
+  local_auth: ^1.1.8
+
+  #Line indicator
+  percent_indicator: ^3.4.0 
+
+  #Verify code
+  pin_code_fields: ^7.3.0 
+
+  #text linked
+  flutter_linkify: ^5.0.2 
+
+  #shared preferences
+  shared_preferences: ^2.0.9 
+
+  #screen loader
+  load: ^1.0.0
+
+  #imagePicker
+  image_picker: ^0.8.4+4 
+  dio: ^4.0.4 
+
+  #datePicker
+  numberpicker: ^2.1.1 
+  flutter_datetime_picker: ^1.5.1 
+  date_util: ^0.1.4
+
+  #dotIndicator
+  dots_indicator: ^2.1.0
+
+  #textMask
+  flutter_masked_text2: ^0.9.1
+  responsive_flutter : ^ 0.0.4
+  flutter_multi_formatter: ^2.4.1
+  humanize: ^0.3.0
+  
+  #Firebase
+  firebase_core: ^1.10.0
+  firebase_auth: ^3.2.0
+  firebase_messaging: ^11.1.0
+  cloud_firestore:
+
+  #Local Not
+  flutter_local_notifications: ^9.1.5
+
+  #authproviders
+  google_sign_in: ^4.0.7
+  flutter_facebook_login: "^3.0.0"
+  facebook_audience_network: ^1.0.0-nullsafety.0
+  sign_in_with_apple: 
+  crypto: ^3.0.1
+
+  #Generate UuId
+  uuid: ^3.0.5
+
+  #Responsive UI
+  sizer: ^2.0.15
+
+  #Dragable scroll
+  draggable_scrollbar: ^0.1.0
+
+  #WebView
+  flutter_inappwebview: ^5.3.2
+
+  #Flutter html
+  flutter_html:
+
+  #Resize child widget
+  measured_size: ^1.0.0
+
+  #Restart app
+  flutter_restart: ^0.0.3
+
+  #Card Selector
+  flutter_stack_card:
+    git:
+      url: https://diegofca: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@github.com/diegofca/flutter_stack_card.git
+
+  #Animations
+  animated_widgets: ^1.1.0
+
+  #Flutter driver
+  flutter_driver:
+    sdk: flutter
+  #test: any
+
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter
+
+  moor_flutter: ^4.0.0
+  build_resolvers: ^2.0.5 
+  auto_route_generator: ^3.1.0
+  injectable_generator: ^1.5.2
+  floor_generator: ^1.2.0
+  build_runner: ^2.1.5
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+       - asset: assets/fonts/Poppins-Bold.otf
+       - asset: assets/fonts/Poppins-Light.otf
+       - asset: assets/fonts/Poppins-Medium.otf
+       - asset: assets/fonts/Poppins-Regular.otf
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

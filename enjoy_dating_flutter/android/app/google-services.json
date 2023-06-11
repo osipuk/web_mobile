@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253045628013",
+    "project_id": "enjoy-dating-9ea6d",
+    "storage_bucket": "enjoy-dating-9ea6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253045628013:android:609f0a68e7b07bcbdcb364",
+        "android_client_info": {
+          "package_name": "com.enjoy_dating.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253045628013-pk1p8hvudmum85qifgch8hbbtk41fms8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfLquJ8H-3mJcVpmQBZOeadVWG9unYvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253045628013-pk1p8hvudmum85qifgch8hbbtk41fms8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,353 @@
+.main-container {
+	margin: 0px 24px;
+	text-align: left;
+}
+
+.voicemails {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+
+.voicemails td {
+	border-bottom: 1px solid #ddd;
+}
+
+.voicemailbox-container {
+	width: 100%;
+	display: inline-block;
+}
+
+.voicemailbox-wrapper {
+	padding: 24px 0;
+	margin: 0 auto;
+	width: 100%;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+}
+
+.voicemailbox-wrapper:hover {
+	box-shadow: 0 0 30px 2px rgba(0, 0, 0, 0.2);
+}
+
+.voicemail-list {
+	display: flex;
+	margin-top: 20px;
+}
+
+.voicemailbox {
+	width: 100%;
+	text-align: center;
+}
+
+.voicemailbox .voicemail-mailbox>div {
+	width: 50%;
+}
+
+.voicemailbox .voicemail-mailbox {
+	display: flex;
+	margin: 0 auto;
+	width: 45%;
+	color: #808080ed;
+}
+
+.newcount {
+	color: #33db24 !important;
+}
+
+.totalcount {
+	color: #151517;
+}
+
+
+.light .num-title {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.dark .num-title {
+	font-size: 14px;
+	font-weight: 500;
+	color: #ffffff;
+}
+
+.dark .voicemails-top {
+	background-color: #6e707a;
+}
+
+.light .voicemails-top {
+	background-color: #FFFFFF;
+}
+
+.dark-voicemailbox-wrapper {
+	background-color: #6e707a;
+}
+
+.light-voicemailbox-wrapper {
+	background-color: #FFFFFF;
+}
+
+.voicemails-top-1 h1,
+.voicemails-top-2 h1 {
+	margin-bottom: 0;
+	font-size: 32px;
+	/* color: #151517; */
+}
+
+.voicemails-top-1 h2,
+.voicemails-top-2 h2 {
+	margin-bottom: 0;
+	font-size: 16px;
+	/* color: #151517; */
+}
+
+.voicemails-top-2 {
+	border-top: 4px solid #ffffff;
+}
+
+.voicemails-top-1 {
+	border-top: 4px solid #33db24;
+	margin-right: 2px;
+}
+
+.back-box {
+	cursor: pointer;
+	font-size: 15px;
+	color: gray;
+	margin-top: 18px;
+	margin-bottom: 17px;
+}
+
+.light .vmbox-title {
+	font-size: 23px;
+	color: #151517;
+	margin-bottom: 24px;
+}
+
+.dark .vmbox-title {
+	font-size: 23px;
+	color: #ffffff;
+	margin-bottom: 24px;
+}
+
+.voicemail-top-wrap {
+	display: block;
+	color: #808080ed;
+	margin-bottom: 24px;
+}
+
+.voicemails-top {
+	width: 11rem;
+	text-align: center;
+	line-height: 2rem;
+	border-radius: 0.2rem;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
+	padding: 15px 20px 15px 20px;
+	margin-right: 1px;
+	float: left;
+}
+
+.checkbox-wrap {
+	padding: 5px 15px;
+	border: solid 1px #BCBCC2;
+	border-radius: 2px;
+	margin-bottom: 1rem;
+	font-weight: 300;
+	background: #F9F9F9;
+	margin-right: 0;
+	float: left;
+	display: block;
+}
+
+.checkbox-wrap>input[type="checkbox"] {
+	margin-right: 0.5rem;
+	margin-left: 0.5rem;
+}
+
+.voicemail-search {
+	display: block;
+	float: right;
+}
+
+.voicemail-search input[type="text"] {
+	width: 15rem;
+}
+
+.bottom-nav {
+	float: right;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+	font-size: 14px;
+}
+
+.bottom-nav button {
+	font-size: 0.8rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border-radius: 0.1rem;
+	color: grey;
+	background: #F7F7F7;
+	border: 1px solid #CDCDD0;
+	margin-right: 0;
+	margin: 0;
+}
+
+.bottom-nav button:first-of-type,
+.bottom-nav button:nth-of-type(2) {
+	color: lightgrey;
+}
+
+.bottom-nav button:nth-of-type(3) {
+	background: #D3D3D6;
+	color: black;
+}
+
+.bottom-nav select {
+	height: 2rem;
+	border: 1px solid grey;
+	padding: 1rem 3rem 1rem 0;
+	margin: 0 10px;
+	color: black;
+	font-size: 0.7rem;
+	font-weight: 400;
+}
+
+.page-num {
+	font-size: 0.7rem;
+	margin-right: 1rem;
+	margin-left: 1rem;
+}
+
+.button-disable {
+	color: grey !important;
+}
+
+.button-enable {
+	color: #000 !important;
+}
+
+.voicemailtable {
+	border: 0px;
+	margin: 0 15px 0 15px !important;
+	width: 100%;
+}
+
+.row1 {
+	color: grey;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 12px;
+	margin-left: 16px;
+	width: 100%;
+}
+
+.voicemail-row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 15px 0px;
+	margin-top: -1px;
+	float: left;
+	width: 100%;
+	border-top: solid 1px #BCBCC2;
+	border-bottom: solid 1px #BCBCC2;
+}
+
+.disabledbutton {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.checkbox {
+	width: 15px !important;
+	height: 15px !important;
+	margin-left: -10px;
+}
+
+.status {
+	margin-left: -15px;
+
+}
+
+.menu-postion {
+	position: absolute;
+	top: 10px !important;
+	left: -57px !important;
+}
+
+.newstatus {
+	background-color: #33db24 !important;
+	border-color: #33db24 !important;
+	color: #071F05;
+	border-radius: 15px;
+	padding: 4px 12px 4px 12px;
+	font-size: 12px;
+}
+
+.listenedstatus {
+	background-color: #d0d0d9 !important;
+	border-color: #d0d0d9 !important;
+	color: #071F05;
+	border-radius: 15px;
+	padding: 4px 12px 4px 12px;
+	font-size: 12px;
+}
+
+.deletedstatus {
+	background-color: #ff3d24 !important;
+	border-color: #ff3d24 !important;
+	color: #ffffff;
+	border-radius: 15px;
+	padding: 4px 12px 4px 12px;
+	font-size: 12px;
+}
+
+.mailchange {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.audioplay {
+	cursor: pointer;
+}
+
+.delete {
+	cursor: pointer;
+}
+
+.audiodown {
+	cursor: pointer;
+}
+
+.name {
+	margin-bottom: 0;
+	font-size: 16px;
+}
+
+.number {
+	font-size: 14px;
+	color: gray;
+}
+
+.audio-close {
+	background-color: #f6f6f9;
+	overflow: hidden;
+	border: solid 1px #e1e1e7;
+	margin-left: -31px;
+	padding: 8px;
+	font-size: 15px;
+	padding-right: 10px !important;
+	padding-left: 10px !important;
+}
+
+.gray-icon {
+	width: 18px;
+	height: 18px;
+	fill: currentColor;
+	line-height: inherit;
+	vertical-align: middle;
+	color: gray;
+}

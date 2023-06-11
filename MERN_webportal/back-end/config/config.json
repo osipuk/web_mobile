@@ -1,0 +1,13 @@
+{
+  "API_URL": "https://ny-kz-02.venturetel.co:8443/v2",
+  "Mssgae_URL": "https://messaging.bandwidth.com/api/v2",
+  "corsURL": "https://cors-anywhere.herokuapp.com/",
+  "accountId": "u-ihab555uwbhclldnatyc7py",
+  "apiToken": "509eb4814291737814e68613dce83af3af7fd6d616c15d44bc",
+  "apiSecret": "d11c02ded9d6ab46b60aae24e96bdd1d4612faf3c0049953bf",
+  "applicationId": "c3baf420-97b6f-4253-946e-c1a66694a8a10",
+  "server_name": "mail.7zella.cloud",
+  "sender_email":"no_repyly@7erts.com",
+  "user_name": "zelyla-mail/alerts",
+  "password": "dnCg53zDIUu0xAr55EsLkyqMsOlC"
+}

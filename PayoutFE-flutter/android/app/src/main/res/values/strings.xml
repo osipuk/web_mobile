@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayOut</string>
+    <string name="facebook_app_id">447185285910990</string>
+    <string name="fb_login_protocol_scheme">fb447185285910990</string>
+    <string name="facebook_client_token">8b56fdb7cfa090fab39b64dca3abcc67</string>
+</resources>

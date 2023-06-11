@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:400,400i,600,700&display=swap&subset=latin-ext);
+@import url(~bootstrap/dist/css/bootstrap.css);
+@import url(~@fortawesome/fontawesome-free/css/all.css);
+@import url(./asset/themify/themify-icons.css);
+@import url(~react-perfect-scrollbar/dist/css/styles.css);
+@import url(~react-toastify/dist/ReactToastify.css);
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ebebeb;
+  font-family: 'Nunito', sans-serif !important;
+  font-size: 14px !important;
+}

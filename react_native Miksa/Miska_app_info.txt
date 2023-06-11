@@ -1,0 +1,163 @@
+api date        = 12-06-2021
+devlopment date = 18-06-2021
+
+
+
+Cpanel
+https://miksaapp.com/cpanel
+UserName: miksaapp
+PassWord: D=[J(oY0;Ikw
+fTP 
+username:miksaappnew@miksaapp.com
+password: NBZTGHH..le-
+host : ftp.miksaapp.com
+
+
+
+url = http://youngdecade.org/2021/miksa/
+==================================================ondrive url
+
+OneDrive Url = https://1drv.ms/u/s!Al4smiznLthAhPMUKmqxGhLUIxgwJQ?e=4aDXkm    
+
+==================================================marval
+murvel = https://marvelapp.com/prototype/6jede60/screen/77876705
+
+=================================================admin details
+http://youngdecade.org/2021/miksa/admin
+info@mailinator.com
+123456
+=================================================client account
+miksaapp@gmail.com
+0917208753
+
+ 
+=================================================Onsignal id 
+onsignal id = 40c3ef13-5ba7-4008-ab4c-96dfb8b8424c
+rest key = YTJiZThhZmItMmJmMy00YzQ2LTkzY2UtMzMwYzE3MTJmOTJj
+
+=================================================stripe===============
+Stripe:
+miksaapp@gmail.com
+Miksa0917208753
+
+
+//make apk =================================================================================
+npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res
+npx gradlew assembleDebug
+
+
+
+======================================================================================================
+google account
+miksaapp@gmail.com
+0917208753@
+
+twillo sms
+miksaapp@gmail.com
+Miksa0917208753
+
+
+paypal
+miksaapp@gmail.com
+Miksa0917208753
+
+paypal test key
+Client ID
+ARsFI2Znl3cz--bJtp8lGo4BrWecfnf6imJOQDE4_KvGMPaTFDUmCb3BN_UBdSfigivXeNHO66oqTdWf
+Secret
+EDG9Lbgu1jCjeFBnzL2dmGuHDw4yjuOgpf1ikNnA5p6JHIHIqsr1xnPUgRPV-_KAADjINF8pW5quOxf9
+paypal test login 
+test.youngdecade1@gmail.com
+123456789
+
+
+live key
+Client ID: ATiR3_-4YbuHSBktrOJS2HX9I8M8-CYBruJeY2ZJJLE46BHB-UzJQ6bXgYrrkStmmTn9soACDnG_LBYz
+Secret = EAt29BRf7NnfsBoMEBHQ4qP6MvxT4qyZdSGdUMsslDIZMAINrXr_iJIftESevTBgezShIKCnJbRoTzny
+save this details 
+
+
+
+for sms==============================
+https://youngdecade.org/2021/miksa/webservice/twiliosms/sendMessageTwilioApi.php
+
+
+***********************************************************************************************
+Cpanel Details================================
+C-panel = https://miksaapp.com:2083/
+UserName    = miksaapp
+PassWord    = D=[J(oY0;Ikw
+
+Database Details=========================
+db-dbname = miksaapp_miksaApp
+user name = miksaapp_miksa
+PassWord    = D=[J(oY0;Ikw
+
+link = https://miksaapp.com/app/webservice/test/login
+
+Email details===================================
+$mail_host = mail.miksaapp.com
+$mail_username = support@miksaapp.com
+$mail_password = D=[J(oY0;Ikw
+$mail_SMTPSecure = ssl
+$mail_port = 465
+$mail_from = support@miksaapp.com
+$fromName = Miksa
+
+FTP Details===================== 
+FTP Username: miksaappnew@miksaapp.com
+FTP server:92.205.22.156
+FTP & explicit FTPS port:  21
+FTP Password:  NBZTGHH..le-
+****************************************************************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRUNCATE `bank_master`;
+TRUNCATE `chat_file_master`;
+TRUNCATE `chat_report`;
+TRUNCATE `contact_us_master`;
+TRUNCATE `forgot_password_master`;
+TRUNCATE `job_available_master`;
+TRUNCATE `job_image_master`;
+TRUNCATE `job_master`;
+TRUNCATE `job_payment_master`;
+TRUNCATE `job_saved_master`;
+TRUNCATE `job_service_master`;
+TRUNCATE `rating_master`;
+TRUNCATE `user_notification`;
+TRUNCATE `user_notification_message`;
+TRUNCATE `user_report_master`;
+TRUNCATE `wallet_master`;
+TRUNCATE `user_service_master`;
+TRUNCATE `covid_report_master`;
+
+
+Map key = "AIzaSyDiB4SQ9xgyglSS2g_BdBhBI0bDqa-0iTQ"
+
+
+
+For Developers
+      Developer Name:-
+      1. Project name:-
+               Admin/database :- (Yes/No)
+               API/database :- (Yes/No)
+               Website/database :- (Yes/No)
+               App side Complete code:- (Yes/No)
+               All Login details updated on details sheet :- (Yes/No)
+
+For Designers
+1. Project name
+        PSD/PNG :- (Yes/No)
+        Slicing :- (Yes/No)
+        Marvel done :- (Yes/No)
+        Marvel login details update
+
+
+        sql module = ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+
+
+
+===================================
+for tetsing=
+1. change live tatus from start end job file
+2. open comment exact time open job in start end file
+3. change live status from get_live_status.php
