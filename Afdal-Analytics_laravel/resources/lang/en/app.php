@@ -1,3 +1,0 @@
-return [
-    'title' =>  'Localization Exmaple'
-];
